@@ -1,4 +1,4 @@
-# Hi there 👋, I'm XXLiu-HNU!
+# Hi there 👋, I'm Liuxingxun from Hunan Unversity!
 
 I'm a passionate developer who loves to explore new technologies and develop innovative solutions. 
 
@@ -7,7 +7,7 @@ I'm a passionate developer who loves to explore new technologies and develop inn
 - 🌱 I’m currently learning **[Your current focus/technology]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **[Your expertise or interest areas]**
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[liuxingxun@hnu.edu.cn]**
 - ⚡ Fun fact: **[A fun fact about you]**
 
 ## 🛠️ Skills
