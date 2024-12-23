@@ -1,20 +1,12 @@
-# Hi there 👋, I'm Liuxingxun from Hunan Unversity!
+# Hi there 👋, I'm Xingxun Liu from Hunan Unversity!
 
 I'm a passionate developer who loves to explore new technologies and develop innovative solutions. 
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[Your current focus/technology]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **[Your expertise or interest areas]**
+- 🌱 I’m currently learning **[Drone swarm planning]**
 - 📫 How to reach me: **[liuxingxun@hnu.edu.cn]**
-- ⚡ Fun fact: **[A fun fact about you]**
 
-## 🛠️ Skills
-
-- **Languages**: [List of programming languages]
-- **Frameworks**: [List of frameworks]
-- **Tools**: [List of tools]
 
 ## 📈 GitHub Stats
 
@@ -22,9 +14,7 @@ I'm a passionate developer who loves to explore new technologies and develop inn
 
 ## 🔗 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Portfolio](https://your-portfolio.com)
+- [Bilibili]([https://www.linkedin.com/in/your-linkedin-profile](https://space.bilibili.com/515718917?spm_id_from=333.1007.0.0))
 
 <!-- Optional: Add a visitor counter -->
 ![](https://komarev.com/ghpvc/?username=XXLiu-HNU&color=blue)
